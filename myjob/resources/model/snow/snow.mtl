@@ -1,0 +1,9 @@
+newmtl court
+illum 2
+Ka 0.00 0.00 0.00				
+Kd 0.00 0.00 0.00				
+Ks 0.00 0.00 0.00				
+map_Ka snow_01.jpg		
+map_Kd snow_01.jpg			
+Ns 32							
+Tf 1.00 1.00 1.00				

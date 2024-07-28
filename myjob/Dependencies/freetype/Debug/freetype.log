@@ -1,0 +1,77 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afblue.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afblue.c(257,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+D:\桌面\freetype-2.10.4\src\autofit\afscript.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+  cff.c
+  type1cid.c
+  ftgzip.c
+  ftlzw.c
+D:\桌面\freetype-2.10.4\src\base\ftstroke.c(1021): warning C4701: 使用了可能未初始化的局部变量“sigma”
+  pcf.c
+D:\桌面\freetype-2.10.4\src\base\ftstroke.c(1116): warning C4701: 使用了可能未初始化的局部变量“sigma”
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+D:\桌面\freetype-2.10.4\src\psaux\t1decode.c(1992,23): warning C4267: “=”: 从“size_t”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\psaux\psaux.c)
+D:\桌面\freetype-2.10.4\src\psaux\psintrp.c(1005,25): warning C4267: “=”: 从“size_t”转换到“FT_Fast”，可能丢失数据 (编译源文件 ..\..\..\src\psaux\psaux.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfdriver.c(859,13): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfdriver.c(1010,36): warning C4244: “函数”: 从“__int64”转换到“const unsigned int”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfwoff2.c(317,37): warning C4100: “src_size”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfwoff2.c(316,37): warning C4100: “src”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfwoff2.c(315,37): warning C4100: “dst_size”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\sfnt\sfwoff2.c(314,37): warning C4100: “dst”: 未引用的形参 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(276,48): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(297,55): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(329,62): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(359,19): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(568,56): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(577,55): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(586,58): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(595,60): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1driver.c(605,55): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\truetype\ttgload.c(1901,42): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“void *” (编译源文件 ..\..\..\src\truetype\truetype.c)
+D:\桌面\freetype-2.10.4\src\smooth\ftgrays.c(1703,20): warning C4267: “+=”: 从“size_t”转换到“TCoord”，可能丢失数据 (编译源文件 ..\..\..\src\smooth\smooth.c)
+D:\桌面\freetype-2.10.4\src\type1\t1load.c(1761,64): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\type1\t1load.c(1931,36): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+D:\桌面\freetype-2.10.4\src\smooth\ftgrays.c(533): warning C4706: 条件表达式内的赋值
+D:\桌面\freetype-2.10.4\src\sfnt\ttload.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+D:\桌面\freetype-2.10.4\src\truetype\ttobjs.c(1025,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\truetype\truetype.c)
+D:\桌面\freetype-2.10.4\src\type42\t42parse.c(832,62): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type42\type42.c)
+D:\桌面\freetype-2.10.4\src\truetype\ttgxvar.c(2237): warning C4701: 使用了可能未初始化的局部变量“fvar_head”
+  ftdebug.c
+    正在创建库 ..\..\..\objs\x64\Debug\freetype.lib 和对象 ..\..\..\objs\x64\Debug\freetype.exp
+  freetype.vcxproj -> D:\桌面\freetype-2.10.4\objs\x64\Debug\freetype.dll

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\IMikoto\Documents\VS_Files\learnopengl\myjob\myjob\src\main.cpp(228,22): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\IMikoto\Documents\VS_Files\learnopengl\myjob\myjob\src\main.cpp(252,28): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  myjob.vcxproj -> C:\Users\IMikoto\Documents\VS_Files\learnopengl\myjob\x64\Debug\myjob.exe
